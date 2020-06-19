@@ -11,7 +11,7 @@ June 25 - 26, 2020, 18:00-19:00 CET (for participants in N/S American time zones
 - **Day 1** - June 24, 10:00-13:00 CET
   - 10:00 - 10:30 | Introductions & Logistics
   - 10:30 - 11:00 | Application Development Overview + Q&A
-  - 11:00 - 11:30 | CLI Installation, App Initialization, live instance debugging
+  - 11:00 - 11:30 | [CLI Installation, App Initialization, live instance debugging](./0-environment-setup)
     - Demonstration (10 minutes)
     - Exercise (20 minutes)
   - 11:30 - 12:30 | Introduction to `ui-core` and basic UI components
