@@ -1,0 +1,21 @@
+{
+    "name": "my-app",
+    "version": "1.0.0",
+    "description": "",
+    "license": "BSD-3-Clause",
+    "private": true,
+    "scripts": {
+        "build": "d2-app-scripts build",
+        "start": "d2-app-scripts start",
+        "test": "d2-app-scripts test",
+        "lint": "d2-style js check && d2-style text check",
+        "format": "d2-style js apply && d2-style text apply"
+    },
+    "devDependencies": {
+        "@dhis2/cli-app-scripts": "^4.0.8",
+        "@dhis2/cli-style": "^7.0.0"
+    },
+    "dependencies": {
+        "@dhis2/app-runtime": "^2.2.2"
+    }
+}
