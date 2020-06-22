@@ -7,5 +7,5 @@ We've prepared a short list of links to [prerequisite learning material](./prere
 ## Structure
 
 - [**Workshop 1**](./workshop-1) - _June 24 - 25_     
-- [**Project**](./project) - _July_
+- [**Project**](./project) - _June 25 - August 1_
 - **Workshop 2** - _August 18 - 21_
