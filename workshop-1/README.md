@@ -17,14 +17,14 @@ June 25 - 26, 2020, 18:00-19:00 CET (for participants in N/S American time zones
   - 11:30 - 12:30 | Introduction to `ui` and basic UI components
     - Demonstration (15 minutes)
     - Exercise (45 minutes)
-  - 12:30 - 13:00 | Q&A, introduce take-home exercise
+  - 12:30 - 13:00 | Q&A
 
 - **Day 2** - June 25, 10:00-13:00 CET
-  - 10:00 - 10:30 | Take-home exercise review
-  - 10:30 - 11:30 | Introduction to `app-runtime` and Data Queries
-    - Demonstration (20 minutes)
+  - 10:00 - 10:30 | Day 1 review
+  - 10:30 - 11:00 | DHIS2 API introduction
+  - 11:00 - 12:30 | Introduction to `app-runtime` and Data Queries
+    - Data Query Demonstration (20 minutes)
     - Exercise (40 minutes)
-  - 11:30 - 12:30 | Using `ui-forms` and `app-runtime` Data Mutations
-    - Demonstration (20 minutes)
-    - Exercise (40 minutes)
+    - Data Mutation Demonstration (10 minutes)
+    - Exercise (20 minutes)
   - 12:30 - 13:00 | Q&A, wrap-up, introduce July project
