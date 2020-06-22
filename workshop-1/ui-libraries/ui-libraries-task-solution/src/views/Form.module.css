@@ -1,0 +1,24 @@
+.row {
+    display: flex;
+}
+
+.row + .row {
+    margin-top: 16px;
+}
+
+.title {
+    width: 150px;
+}
+
+.surname {
+    flex-grow: 1;
+    margin-right: 8px;
+}
+
+.firstname {
+    flex-grow: 1;
+}
+
+.email {
+    flex-grow: 1;
+}
