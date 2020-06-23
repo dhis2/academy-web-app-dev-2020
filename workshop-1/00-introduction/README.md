@@ -15,6 +15,6 @@ This session will introduce DHIS2, DHIS2 Applications, and the Application Platf
 _June 2, 2020 @ 14:00 CET_<br/>
 Join Austin from the DHIS2 Core Team for a high-level overview of the application development ecosystem and tools. This will be a non-technical overview, suitable for developers and non-developers alike, and will cover both the current state of and future plans for the Application Platform initiative.
 
-- **Platform Tools Webinar** - [community Q&A](https://community.dhis2.org/t/ready-for-the-web-app-development-webinar-q-a-discussions/39463), [recording](https://www.youtube.com/watch?v=oi9mSa62G0Q)
-June 10, 2020 @ 14:00 CET
+- **Platform Tools Webinar** - [community Q&A](https://community.dhis2.org/t/ready-for-the-web-app-development-webinar-q-a-discussions/39463), [recording](https://www.youtube.com/watch?v=oi9mSa62G0Q)<br/>
+_June 10, 2020 @ 14:00 CET_<br/>
 Join the DHIS2 Core Team for a lightly-technical introduction to the tools for DHIS2 application development. We will introduce the DHIS2 Application Platform, the DHIS2 Design System, the official React UI Component Library, and the new DHIS2 App Hub. We will also cover the roadmap development and adoption of this platform across the DHIS2 ecosystem.
