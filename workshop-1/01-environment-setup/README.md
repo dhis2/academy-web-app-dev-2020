@@ -38,7 +38,7 @@ The `d2` cli includes a tool for checking and fixing the style of javascript and
 
 Following the DHIS2 styleguide isn't strictly required, but it can be very helpful in ensuring you write clean, readable, and functional code for your DHIS2 apps!
 
-> You can use [this sandbox](https://githubbox.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/01-environment-setup/my-app) for the rest of these steps
+> You can use [this sandbox](https://codesandbox.io/s/github/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/01-environment-setup/my-app) for the rest of these steps. General information on using Code Sandbox for this academy can be found [in the resources section](../../resources/CODE_SANDBOX.md).
 
 ```sh
 d2 style install project/react
