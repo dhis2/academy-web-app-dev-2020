@@ -1,5 +1,24 @@
 # Empty UI Libraries template for completing the tasks
 
+* [1. Introduction](#intro)
+* [2. Training environment](#training-environment)
+  * [If you're using your local development environment](#training-environment--local-dev)
+* [3. Structure inside the `src` folder](#src-structure)
+* [4. Task 1 - Create a navigation with the Menu and MenuItem component](#task-1)
+  * [Existing code in the template](#task-1--existing-code)
+  * [Completing the task](#task-1--completing-the-task)
+* [5. Task 2 - Create a Table for the attributes that are being loaded](#task-2)
+  * [Existing code in the template](#task-2--existing-code)
+  * [Completing the task](#task-2--completing-the-task)
+* [6. Task 3 - Complete the registration form](#task-3)
+  * [Existing code in the template](#task-3--existing-code)
+  * [Completing the task](#task-3--completing-the-task)
+    * [The validation](#task-3--validation)
+* [7. Solution for all three tasks](#solution)
+
+<a name="intro" href=""></a>
+## 1. Introduction
+
 There are three tasks to be completed. The first one is required for the next
 two as it sets up the routing to reach the pages.
 
@@ -9,7 +28,8 @@ that's irrelevant to the task or hasn't been covered yet during the webinar.
 The comments that are important are the ones containing `@TODO`, that's where
 action is required by you in order to complete the task.
 
-## Training environment
+<a name="training-environment" href=""></a>
+## 2. Training environment
 
 You can access the code sandbox with the template here:
 [https://codesandbox.io/s/github/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/02-ui-libraries/ui-libraries-task-template](https://codesandbox.io/s/github/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/02-ui-libraries/ui-libraries-task-template)
@@ -18,7 +38,8 @@ It is read-only, so you need to fork it in order to work on it.
 The `@dhis2/ui` library is already installed, so you don't need to worry about
 that. You can start hacking right away.
 
-## Structure inside the `src` folder
+<a name="src-structure" href=""></a>
+## 3. Structure inside the `src` folder
 
 ```
 |- /src
@@ -36,13 +57,15 @@ that. You can start hacking right away.
 |--- App.js
 ```
 
-## Task 1 - Create a navigation with the Menu and MenuItem component
+<a name="task-1" href=""></a>
+## 4. Task 1 - Create a navigation with the Menu and MenuItem component
 
 The goal of this task is to have a fully functional sidebar.
 The sidebar is required to navigate to the pages you will work on in the next
 two tasks. This shouldn't take more than a couple of minutes as this is more an
 introductory task.
 
+<a name="task-1--existing-code" href=""></a>
 ### Existing code in the template
 
 The template already contains all necessary code except for the ui components.
@@ -60,6 +83,7 @@ to be touched in order to get this working.
 The `src/App.js` renders a component called `Navigation`. It already exists in
 `src/navigation/Navigation.js`. This is the file that you have to work on.
 
+<a name="task-1--completing-the-task" href=""></a>
 ### Completing the task
 
 Once all steps have been completed, the sidebar should look like this:
@@ -79,7 +103,8 @@ If all the components have been added correctly, you should be able to navigate
 to the `Home`, `Attributes` and `Form` pages, which so far display nothing but
 an `h1`.
 
-## Task 2 - Create a Table for the attributes that are being loaded
+<a name="task-2" href=""></a>
+## 5. Task 2 - Create a Table for the attributes that are being loaded
 
 After the sidebar has been added, you can navigate to the attributes page.
 On this page some attributes are being loaded from the database. 
@@ -88,6 +113,7 @@ These should then be displayed in a table.
 If you did not complete the first task, you can't navigate to this page.
 You can still access is through manually changing the url to `/attributes`.
 
+<a name="task-2--existing-code" href=""></a>
 ### Existing code in the template
 
 The file you are going to work on is `src/views/Attributes.js`. It already
@@ -116,6 +142,7 @@ has finished & succeeded, data will have the following shape:
 }
 ```
 
+<a name="task-2--completing-the-task" href=""></a>
 ### Completing the task
 
 Once all steps have been completed, the attributes page should look like this:
@@ -144,7 +171,8 @@ table row that displays the relevant data. When one correctly, each row will
 have two cells, one for the `displayName` and one for whether the attribute is
 `unique` or not.
 
-## Task 3 - Complete the registration form
+<a name="task-3" href=""></a>
+## 6. Task 3 - Complete the registration form
 
 The final task will be the one that will take most of the time.
 The goal is to have a fully functional form that won't submit until all
@@ -153,6 +181,7 @@ required fields have a value and their value is not invalid.
 If you did not complete the first task, you can't navigate to this page.
 You can still access is through manually changing the url to `/form`.
 
+<a name="task-3--existing-code" href=""></a>
 ### Existing code in the template
 
 The form logic is done with react-final-form, which we use for building forms.
@@ -164,6 +193,7 @@ and the validators from the ui library.
 
 The file that you will have to work on is `src/views/Form.js`.
 
+<a name="task-3--completing-the-task" href=""></a>
 ### Completing the task
 
 Once all steps have been completed, the attributes page should look like this:
@@ -176,6 +206,7 @@ function are invalid:
 
 ![Invalid form](./assets/invalid_form.jpg)
 
+<a name="task-3--validation" href=""></a>
 #### The validation
 
 The validation for the individual fields should be as follows:
@@ -231,7 +262,8 @@ for more information.
 The comments with `@TODO` in the `Form.js` will tell you which components and
 validators to use.
 
-## Solution for all three tasks
+<a name="solution" href=""></a>
+## 7. Solution for all three tasks
 
 If you think you're done, you can compare your result with the solution here:
 [https://github.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/02-ui-libraries/ui-libraries-task-solution](https://github.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/02-ui-libraries/ui-libraries-task-solution)
