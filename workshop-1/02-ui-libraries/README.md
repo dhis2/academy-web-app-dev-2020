@@ -1,6 +1,8 @@
 # Empty UI Libraries template for completing the tasks
 
 * [1. Introduction](#intro)
+  * [UI Libraries recap](#intro--recap)
+  * [Webinar tasks introduction](#intro--webinar-into)
 * [2. Training environment](#training-environment)
   * [If you're using your local development environment](#training-environment--local-dev)
 * [3. Structure inside the `src` folder](#src-structure)
@@ -18,6 +20,45 @@
 
 <a name="intro" href=""></a>
 ## 1. Introduction
+
+<a name="intro--recap" href=""></a>
+### UI Libraries recap
+
+At DHIS2 we have a design system which is a collection of design principles and
+a library of UI components for designing applications for the DHIS2 platform.
+Using this system you can design and build applications that are usable,
+powerful and consistent with other DHIS2 applications.
+
+The UI library is our implementation of that design system for react
+environments. It's used by the DHIS2 core developers as well as by 3rd party
+dhis2 apps.
+
+*You can watch Joe Cooper's **presentation about the design system**, held online on
+the 2nd of June, on [YouTube](https://youtu.be/oi9mSa62G0Q?t=1860).*
+
+The main library, called `ui`, is the complete library and re-exports all
+components from our individual libraries. It's therefore the better choice when
+developing apps as it exports the components in a flat structure and works
+independent of structural changes in our individual libraries.
+
+*You can watch Jan-Gerke Salomon's **presentation about the ui libraries**, held
+online on the 2nd of June as well, on
+[YouTube](https://youtu.be/oi9mSa62G0Q?t=2353).*
+
+It can be added to a project with both npm and yarn:
+
+**npm:**
+```bash
+npm install @dhis2/ui --save-prod
+```
+
+**yarn:**
+```bash
+yarn add @dhis2/ui
+```
+
+<a name="intro--webinar-intro" href=""></a>
+### Webinar tasks introduction
 
 There are three tasks to be completed. The first one is required for the next
 two as it sets up the routing to reach the pages.
