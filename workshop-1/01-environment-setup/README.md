@@ -23,7 +23,7 @@
 
 ## Set up code-style wtih DHIS2 style
 
-> You can use [this sandbox](https://githubbox.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/0-environment-setup/my-app) for the rest of these steps
+> You can use [this sandbox](https://githubbox.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/01-environment-setup/my-app) for the rest of these steps
 
 ```sh
 > d2 style install project/react
