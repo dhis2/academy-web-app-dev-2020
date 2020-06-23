@@ -30,6 +30,8 @@ that. You can start hacking right away.
 |------ Home.js
 |------ Attributes.js
 |------ Form.js
+|       # Redirects to the homepage
+|------ NoMatch.js
 |    # Contains the routing
 |--- App.js
 ```
@@ -82,6 +84,9 @@ an `h1`.
 After the sidebar has been added, you can navigate to the attributes page.
 On this page some attributes are being loaded from the database. 
 These should then be displayed in a table.
+
+If you did not complete the first task, you can't navigate to this page.
+You can still access is through manually changing the url to `/attributes`.
 
 ### Existing code in the template
 
@@ -144,6 +149,9 @@ have two cells, one for the `displayName` and one for whether the attribute is
 The final task will be the one that will take most of the time.
 The goal is to have a fully functional form that won't submit until all
 required fields have a value and their value is not invalid.
+
+If you did not complete the first task, you can't navigate to this page.
+You can still access is through manually changing the url to `/form`.
 
 ### Existing code in the template
 
@@ -214,11 +222,16 @@ validate={composeValidators(
 )}
 ```
 
-All validators mentioned above and required in this task are exported directly
-from `@dhis2/ui`. You can easily write your own validators in your apps. Please
+All validators mentioned above in this task are exported directly from
+`@dhis2/ui`. You can easily write your own validators in your apps. Please
 refer to the docs of
 [`react-final-form`](https://final-form.org/docs/react-final-form/getting-started)
 for more information.
 
 The comments with `@TODO` in the `Form.js` will tell you which components and
 validators to use.
+
+## Solution for all three tasks
+
+If you think you're done, you can compare your result with the solution here:
+[https://github.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/02-ui-libraries/ui-libraries-task-solution](https://github.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/02-ui-libraries/ui-libraries-task-solution)
