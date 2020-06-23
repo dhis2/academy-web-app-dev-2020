@@ -9,6 +9,15 @@ that's irrelevant to the task or hasn't been covered yet during the webinar.
 The comments that are important are the ones containing `@TODO`, that's where
 action is required by you in order to complete the task.
 
+## Training environment
+
+You can access the code sandbox with the template here:
+[https://codesandbox.io/s/github/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/02-ui-libraries/ui-libraries-task-template](https://codesandbox.io/s/github/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/02-ui-libraries/ui-libraries-task-template)
+
+It is read-only, so you need to fork it in order to work on it.
+The `@dhis2/ui` library is already installed, so you don't need to worry about
+that. You can start hacking right away.
+
 ## Structure inside the `src` folder
 
 ```
