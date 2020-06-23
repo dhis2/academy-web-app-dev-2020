@@ -2,7 +2,7 @@
 
 * [1. Introduction](#intro)
   * [UI Libraries recap](#intro--recap)
-  * [Webinar tasks introduction](#intro--webinar-into)
+  * [Workshop tasks introduction](#intro--workshop-into)
 * [2. Training environment](#training-environment)
   * [If you're using your local development environment](#training-environment--local-dev)
 * [3. Structure inside the `src` folder](#src-structure)
@@ -57,14 +57,14 @@ npm install @dhis2/ui --save-prod
 yarn add @dhis2/ui
 ```
 
-<a name="intro--webinar-intro" href=""></a>
-### Webinar tasks introduction
+<a name="intro--workshop-intro" href=""></a>
+### Workshop tasks introduction
 
 There are three tasks to be completed. The first one is required for the next
 two as it sets up the routing to reach the pages.
 
 All files that you have to touch contain explanatory comments, even for code
-that's irrelevant to the task or hasn't been covered yet during the webinar.
+that's irrelevant to the task or hasn't been covered yet during the workshop.
 
 The comments that are important are the ones containing `@TODO`, that's where
 action is required by you in order to complete the task.
@@ -82,12 +82,12 @@ that. You can start hacking right away.
 <a name="training-environment--local-dev" href=""></a>
 ### If you're using your local development environment
 
-IMPORTANT NOTICE: We're not supporting local development during the webinar. So
+IMPORTANT NOTICE: We're not supporting local development during the workshop. So
 if you're trying this and run into complications, please switch to using the
 sandbox linked to above.
 
-The webinar will introduce the code sandbox as development environment as it
-works OS independently. If you're reading this at a later time or want to use
+The workshop will introduce the code sandbox as development environment as it
+works OS independently. If you're reading this at a later time and want to use
 your local development environment, here are the steps required to get the
 template working:
 
