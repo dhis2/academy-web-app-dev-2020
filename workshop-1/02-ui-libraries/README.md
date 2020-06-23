@@ -1,4 +1,4 @@
-# Empty UI Libraries temmplate for completing the tasks
+# Empty UI Libraries template for completing the tasks
 
 There are three tasks to be completed. The first one is required for the next
 two as it sets up the routing to reach the pages.
@@ -7,7 +7,7 @@ All files that you have to touch contain explanatory comments, even for code
 that's irrelevant to the task or hasn't been covered yet during the webinar.
 
 The comments that are important are the ones containing `@TODO`, that's where
-action is requried by you in order to complete the task.
+action is required by you in order to complete the task.
 
 ## Structure inside the `src` folder
 
@@ -76,13 +76,12 @@ These should then be displayed in a table.
 
 ### Existing code in the template
 
-The file you are going to work on is the `src/views/Attributes.js`.
-It already contains all the loading logic and will display the loading
-indicator to the user (just a text "Loading...") and the error message of
-something goes wrong.
+The file you are going to work on is `src/views/Attributes.js`. It already
+contains all the loading logic and will display the loading indicator to the
+user ("Loading...") and the error message of something goes wrong.
 
-The introduction to loading data from dhis2 will be after the introduction to
-the ui libraries, so for now, you won't have to worry about how this works.
+The introduction to loading data from dhis2 will be held after the introduction
+of the ui libraries, so for now, you won't have to worry about how this works.
 There are three values (`loading`, `error` & `data`) and the `data` one is the
 only one that you have to handle.
 
@@ -155,7 +154,7 @@ Once all steps have been completed, the attributes page should look like this:
 ![Finished form page](./assets/finished_form_page.jpg)
 
 If the form validation fails, then the form should contains the respective
-error messasge. In the following image all fields that have a validation
+error message. In the following image all fields that have a validation
 function are invalid:
 
 ![Invalid form](./assets/invalid_form.jpg)
@@ -181,7 +180,7 @@ The `hasValue` validator can be used to check whether a field is empty or not.
 validate={hasValue}
 ```
 
-The `email` validator can be used to check whether a field is a valid e-mail
+The `email` validator can be used to check whether a field is a valid email
 address.
 
 ```jsx
