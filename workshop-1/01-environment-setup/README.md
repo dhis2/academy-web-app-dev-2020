@@ -1,8 +1,9 @@
 # Initial Environment Setup
 
-## Install node and yarn
+## Pre-requisites
 
-...TODO
+1. Install [Node.js](https://nodejs.org/en/download/)
+2. Install [Yarn](https://yarnpkg.com/getting-started/install)
 
 ## Install the DHIS2 CLI
 
