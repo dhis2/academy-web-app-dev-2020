@@ -38,6 +38,29 @@ It is read-only, so you need to fork it in order to work on it.
 The `@dhis2/ui` library is already installed, so you don't need to worry about
 that. You can start hacking right away.
 
+<a name="training-environment--local-dev" href=""></a>
+### If you're using your local development environment
+
+IMPORTANT NOTICE: We're not supporting local development during the webinar. So
+if you're trying this and run into complications, please switch to using the
+sandbox linked to above.
+
+The webinar will introduce the code sandbox as development environment as it
+works OS independently. If you're reading this at a later time or want to use
+your local development environment, here are the steps required to get the
+template working:
+
+```bash
+git clone https://github.com/dhis2/academy-web-app-dev-2020
+cd academy-web-app-dev-2020
+yarn install # or just "yarn", which is a short hand for "yarn install"
+yarn start
+```
+
+This should open the url `https://localhost:3000` in your default browser and
+will automatically refresh when you change your code. This is how we develop
+apps at dhis2.
+
 <a name="src-structure" href=""></a>
 ## 3. Structure inside the `src` folder
 
