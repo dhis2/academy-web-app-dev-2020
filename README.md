@@ -1,8 +1,10 @@
 # DHIS2 Web App Development Academy 2020
 
-## Prerequisites
+## Resources
 
-We've prepared a short list of links to [prerequisite learning material](./prerequisites) for students who aren't yet comfortable with HTML, CSS, Javascript, or React development.
+We've prepared a short list of links to [prerequisite learning material](./resources/PREREQUISITES.md) for students who aren't yet comfortable with HTML, CSS, Javascript, or React development.
+
+A [reference guide](./resources/CODE_SANDBOX.md) for [CodeSandbox](https://codesandbox.io) is also available.
 
 ## Structure
 
