@@ -1,7 +1,3 @@
-/** @TODO: Import the following components and functions from `@dhis2/ui`
- * Button, InputFieldFF, SingleSelectFieldFF, SwitchFieldFF,
- * composeValidators, createEqualTo, email, hasValue
- */
 import {
     Button,
     InputFieldFF,
@@ -50,7 +46,6 @@ export const Form = () => (
                             // Use `SingleSelectFieldFF` as component
                             component={SingleSelectFieldFF}
                             className={styles.title}
-                            // @TODO: Use `"none"` as initialValue
                             initialValue="none"
                             options={[
                                 { label: 'Professor', value: 'prof' },
@@ -65,10 +60,8 @@ export const Form = () => (
                             required
                             name="surname"
                             label="Surname"
-                            // @TODO: Use the `InputFieldFF` compmonent
                             component={InputFieldFF}
                             className={styles.surname}
-                            // @TODO: Use the `hasValue` validator
                             validate={hasValue}
                         />
 
@@ -76,10 +69,8 @@ export const Form = () => (
                             required
                             name="firstname"
                             label="First name"
-                            // @TODO: Use the `InputFieldFF` compmonent
                             component={InputFieldFF}
                             className={styles.firstname}
-                            // @TODO: Use the `hasValue` validator
                             validate={hasValue}
                         />
                     </div>
@@ -89,10 +80,8 @@ export const Form = () => (
                             required
                             name="email"
                             label="E-mail address"
-                            // @TODO: Use the `InputFieldFF` component
                             component={InputFieldFF}
                             className={styles.email}
-                            // @TODO: Supply validator composition of `email` & `hasValue`
                             validate={composeValidators(email, hasValue)}
                         />
                     </div>
@@ -102,10 +91,8 @@ export const Form = () => (
                             required
                             name="email-confirmation"
                             label="Confirm e-mail address"
-                            // @TODO: Use the `InputFieldFF` component
                             component={InputFieldFF}
                             className={styles.email}
-                            // @TODO: Supply validator composition of `createEqualTo('email')` & `hasValue`
                             validate={composeValidators(
                                 createEqualTo('email'),
                                 hasValue
@@ -118,7 +105,6 @@ export const Form = () => (
                             type="checkbox"
                             name="newsletter"
                             label="I want to receive the newsletter"
-                            // @TODO: Use the `SwitchFieldFF` component
                             component={SwitchFieldFF}
                             className={styles.newsletters}
                             initialValue={false}
@@ -126,13 +112,7 @@ export const Form = () => (
                     </div>
 
                     <div className={styles.row}>
-                        <Button
-                            // @TODO: Use the `Button` component
-                            // @TODO: Use `type="submit"` to be able to submit the form with the mouse
-                            // @TODO: Use the button's primary variant
-                            primary
-                            type="submit"
-                        >
+                        <Button primary type="submit">
                             Submit form
                         </Button>
                     </div>
