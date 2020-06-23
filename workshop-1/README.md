@@ -11,9 +11,8 @@ June 25 - 26, 2020, 18:00-19:00 CET (for participants in N/S American time zones
 - **Day 1** - DHIS2 Application Platform and Design System - _June 24, 10:00-13:00 CET_
   - 10:00 - 10:30 | Introductions & Logistics (@All)
   - 10:30 - 11:00 | [Application Development Overview](./00-introduction) (@Austin)
-  - 11:00 - 11:30 | [CLI Installation, App Initialization, live instance debugging](./01-environment-setup) (@Hendrik)
-    - Demonstration (10 minutes)
-    - Exercise (20 minutes)
+  - 11:00 - 11:30 | [CLI Installation, App Initialization, live instance debugging](./01-environment-setup) (@Hendrik / @Austin)
+    - Follow-along Demonstration (30 minutes) - staff helping when there are questions
   - 11:30 - 12:30 | [Introduction to `ui` library and design system](./02-ui-libraries) (@Jan-gerke)
     - Demonstration (15 minutes)
     - Exercise (45 minutes)
