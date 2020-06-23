@@ -72,7 +72,7 @@ action is required by you in order to complete the task.
 <a name="training-environment" href=""></a>
 ## 2. Training environment
 
-You can access the code sandbox with the template here:
+You can access the CodeSandbox with the template here:
 [https://codesandbox.io/s/github/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/02-ui-libraries/ui-libraries-task-template](https://codesandbox.io/s/github/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/02-ui-libraries/ui-libraries-task-template)
 
 It is read-only, so you need to fork it in order to work on it.
@@ -86,7 +86,7 @@ IMPORTANT NOTICE: We're not supporting local development during the workshop. So
 if you're trying this and run into complications, please switch to using the
 sandbox linked to above.
 
-The workshop will introduce the code sandbox as development environment as it
+The workshop will introduce the CodeSandbox as development environment as it
 works OS independently. If you're reading this at a later time and want to use
 your local development environment, here are the steps required to get the
 template working:
