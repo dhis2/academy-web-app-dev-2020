@@ -1,6 +1,6 @@
 # Code Sandbox
 ## Prerequisites
-To use CodeSandbox for this academy, you will need to have a GitHub account, and login to code-sandbox using that account.
+To use [CodeSandbox](https://codesandbox.io) for this academy, you will need to have a GitHub account, and login to code-sandbox using that account.
 
 ## Open a GitHub project
 Follow the steps below to open the project in Code Sandbox
