@@ -32,7 +32,7 @@ cd my-app
 ls
 ```
 
-## Set up code-style wtih DHIS2 style
+## Set up code-style with DHIS2 style
 
 The `d2` cli includes a tool for checking and fixing the style of javascript and text files in your repository.  The tool, called [d2-style](https://cli-style.dhis2.nu/), runs [`prettier`](https://prettier.io/) and [`eslint`](https://eslint.org) under the hood with [a standardized configuration](https://github.com/dhis2/cli-style/tree/master/config/js).  It also installs git hooks with [husky](https://github.com/typicode/husky) which will automatically check your code style before making a `git` commit!
 
