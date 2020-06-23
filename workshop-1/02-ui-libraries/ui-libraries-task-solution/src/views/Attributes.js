@@ -1,4 +1,3 @@
-// @TODO: Import `Table`, `TableBody`, `TableCell`, `TableCellHead`, `TableHead`, `TableRow` & `TableRowHead` from `@dhis2/ui`
 import {
     Table,
     TableBody,
@@ -54,41 +53,22 @@ export const Attributes = () => {
 
             {// if there is any data available
             data?.attributes?.attributes && (
-                <Table
-                // @TODO: Use a `Table` component
-                >
-                    <TableHead
-                    // @TODO: Use a `TableHead` component
-                    >
-                        <TableRowHead
-                        // @TODO: Use a `TableRowHead` component
-                        // @TODO: And use `TableCellHead` component for the cells
-                        >
+                <Table>
+                    <TableHead>
+                        <TableRowHead>
                             <TableCellHead>Name</TableCellHead>
                             <TableCellHead>Unique</TableCellHead>
                         </TableRowHead>
                     </TableHead>
-                    <TableBody
-                    // @TODO: Use a `TableBody` component
-                    >
+                    <TableBody>
                         {data.attributes.attributes.map(
                             ({ id, displayName, unique }) => (
-                                // @TODO: Render the displayName in a `TableCell`
-                                // @TODO: Render 'yes' or 'no', depending on the value of `unique`
-                                <TableRow
-                                    // @TODO: Use the `TableRow` component
-                                    key={id}
-                                >
+                                <TableRow key={id}>
                                     <TableCell>{displayName}</TableCell>
 
                                     <TableCell>
                                         {unique ? 'Yes' : 'No'}
                                     </TableCell>
-
-                                    <span
-                                        // @TODO: Use the `TableCell` to render data
-                                        style={{ display: 'none' }}
-                                    />
                                 </TableRow>
                             )
                         )}

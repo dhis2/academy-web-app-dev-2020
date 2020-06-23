@@ -1,5 +1,3 @@
-// @TODO: Import the `Menu` and `MenuItem` components
-
 import { Menu, MenuItem } from '@dhis2/ui'
 import { useHistory, useRouteMatch } from 'react-router-dom'
 import { PropTypes } from '@dhis2/prop-types'
@@ -18,7 +16,6 @@ const NavigationItem = ({ path, label }) => {
     // If the menu item is not active, navigate to the path
     const onClick = () => !isActive && history.push(path)
 
-    // @TODO: Use the `MenuItem` component insteaf of the `div`
     return <MenuItem label={label} active={isActive} onClick={onClick} />
 }
 
@@ -27,7 +24,6 @@ NavigationItem.propTypes = {
     path: PropTypes.string.isRequired,
 }
 
-// @TODO: Use the `Menu` component instead of the `div`
 export const Navigation = () => (
     <Menu>
         <NavigationItem
