@@ -112,7 +112,7 @@ Once the app for the workshop is running, you'll have to login.
 Please use these login credentials:
 
 Server:
-[`https://debug.dhis2.org/app-dev-academy`](https://debug.dhis2.org/app-dev-academy)
+[`https://academy.demos.dhis2.org/app-dev-academy`](https://academy.demos.dhis2.org/app-dev-academy)
 <br />
 User: `admin`<br />
 Password: `district`

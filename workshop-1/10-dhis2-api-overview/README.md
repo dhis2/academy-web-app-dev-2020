@@ -13,13 +13,13 @@ _TODO_
 Analytics Query (URL parameters)
 
 ```
-https://debug.dhis2.org/app-dev-academy/api/32/analytics.json?dimension=dx:hCVSHjcml9g;fbfJHSPpUQD;cYeuwXTCPkU;yTHydhurQQU;rbkr8PL0rwM;ybzlGLjWwnK&dimension=fMZEcRHuamy:qkPbeWaFsnU;wbrDrL2aYEc&dimension=pe:LAST_12_MONTHS&dimension=J5jldMd8OHv:uYxK4wmcPqA;tDZVQ1WtwpA;EYbopBOJWsW;RXL3lPSK8oG;CXw2yu5fodb&filter=ou:ImspTQPwCqd&displayProperty=SHORTNAME
+https://academy.demos.dhis2.org/app-dev-academy/api/32/analytics.json?dimension=dx:hCVSHjcml9g;fbfJHSPpUQD;cYeuwXTCPkU;yTHydhurQQU;rbkr8PL0rwM;ybzlGLjWwnK&dimension=fMZEcRHuamy:qkPbeWaFsnU;wbrDrL2aYEc&dimension=pe:LAST_12_MONTHS&dimension=J5jldMd8OHv:uYxK4wmcPqA;tDZVQ1WtwpA;EYbopBOJWsW;RXL3lPSK8oG;CXw2yu5fodb&filter=ou:ImspTQPwCqd&displayProperty=SHORTNAME
 ```
 
 Pretty-printed:
 
 ```
-https://debug.dhis2.org/app-dev-academy/api/32/analytics.json
+https://academy.demos.dhis2.org/app-dev-academy/api/32/analytics.json
 ?dimension=dx:hCVSHjcml9g;fbfJHSPpUQD;cYeuwXTCPkU;yTHydhurQQU;rbkr8PL0rwM;ybzlGLjWwnK
 &dimension=fMZEcRHuamy:qkPbeWaFsnU;wbrDrL2aYEc
 &dimension=pe:LAST_12_MONTHS
