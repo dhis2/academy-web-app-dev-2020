@@ -29,12 +29,12 @@ a library of UI components for designing applications for the DHIS2 platform.
 Using this system you can design and build applications that are usable,
 powerful and consistent with other DHIS2 applications.
 
+*You can watch Joe Cooper's **presentation about the design system**, held online on
+the 2nd of June, on [YouTube](https://youtu.be/oi9mSa62G0Q?t=1860).*
+
 The UI library is our implementation of that design system for react
 environments. It's used by the DHIS2 core developers as well as by 3rd party
 dhis2 apps.
-
-*You can watch Joe Cooper's **presentation about the design system**, held online on
-the 2nd of June, on [YouTube](https://youtu.be/oi9mSa62G0Q?t=1860).*
 
 The main library, called `ui`, is the complete library and re-exports all
 components from our individual libraries. It's therefore the better choice when
@@ -44,6 +44,8 @@ independent of structural changes in our individual libraries.
 *You can watch Jan-Gerke Salomon's **presentation about the ui libraries**, held
 online on the 2nd of June as well, on
 [YouTube](https://youtu.be/oi9mSa62G0Q?t=2353).*
+
+#### Installation
 
 It can be added to a project with both npm and yarn:
 
@@ -57,6 +59,28 @@ npm install @dhis2/ui --save-prod
 yarn add @dhis2/ui
 ```
 
+#### Documentation
+
+The documentation of the individual components and what props they expect and
+provide can be found [https://ui.dhis2.nu](https://ui.dhis2.nu/#/).
+If you don't remember this address, there is a link to the documentation in the
+README of the repository of the ui library.
+
+<hr />
+
+Here You can see a part of the index of the api docs:
+
+![Api Docs](./assets/component_api_docs_menu_highlighted.jpg)
+
+You can scroll down to a specific component to see its prop types:
+
+![Menu Api Docs](./assets/menu_api_docs.jpg)
+
+Another good resource for checking out what different state the components can
+have is the storybook, which is also part of the documentatin linked above:
+
+![Menu story](./assets/menu_story.jpg)
+
 <a name="intro--workshop-intro" href=""></a>
 ### Workshop tasks introduction
 
@@ -69,6 +93,9 @@ that's irrelevant to the task or hasn't been covered yet during the workshop.
 The comments that are important are the ones containing `@TODO`, that's where
 action is required by you in order to complete the task.
 
+The slides for the presentation can be found online:
+[Slides](https://docs.google.com/presentation/d/1zQ4u1fsRTS9hj9ojlVzNxMtGyQPLrcB6QTMj55H84WM/edit?usp=sharing)
+
 <a name="training-environment" href=""></a>
 ## 2. Training environment
 
@@ -78,6 +105,17 @@ You can access the CodeSandbox with the template here:
 It is read-only, so you need to fork it in order to work on it.
 The `@dhis2/ui` library is already installed, so you don't need to worry about
 that. You can start hacking right away.
+
+### Logging in
+
+Once the app for the workshop is running, you'll have to login.
+Please use these login credentials:
+
+Server:
+[`https://debug.dhis2.org/app-dev-academy`](https://debug.dhis2.org/app-dev-academy)
+<br />
+User: `admin`<br />
+Password: `district`
 
 <a name="training-environment--local-dev" href=""></a>
 ### If you're using your local development environment
