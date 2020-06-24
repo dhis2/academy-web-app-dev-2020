@@ -47,7 +47,7 @@ d2 style install project/react
 **OR, if you don't have `d2` installed globally**
 
 ```sh
-npx d2-style install project/react
+npx @dhis2/cli-style install project/react
 ```
 
 This will set up the project to automatically follow the DHIS2 style guidelines
