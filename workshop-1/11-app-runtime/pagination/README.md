@@ -15,7 +15,7 @@ The pagination buttons might look nice, but they don't do much yet.
 
 Complete the implementation of each callback function in [PaginationControls](./src/components/PaginationControls.js) so that they update the page of the query in [PaginatedVisualizationsTable](./src/components/PaginatedVisualizationsTable.js).  The implementation of `onFirst` has been completed for you.
 
-To submit, select **Exercise 3** from the Course tab on [the OpenEDX portal](https://academy.dhis2.org/courses/course-v1:HISP_UiO+D2ADd100EN+2020_Q3)
+To submit, select **Exercise 4** from the Course tab on [the OpenEDX portal](https://academy.dhis2.org/courses/course-v1:HISP_UiO+D2ADd100EN+2020_Q3)
 
 ## OPTIONAL BONUS
 
