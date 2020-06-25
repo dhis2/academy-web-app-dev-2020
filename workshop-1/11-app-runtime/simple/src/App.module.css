@@ -1,0 +1,15 @@
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+}
+
+.list {
+    max-width: 640px;
+}
+.list li:not(:last-child) {
+    padding-bottom: 16px;
+}
