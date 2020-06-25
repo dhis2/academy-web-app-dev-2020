@@ -1,7 +1,5 @@
 # DHIS2 API Overview
 
-_TODO_
-
 ## Useful Links
 
 - [DHIS2 API documentation](https://docs.dhis2.org/2.34/en/dhis2_developer_manual/web-api.html)
