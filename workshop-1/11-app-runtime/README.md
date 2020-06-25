@@ -2,6 +2,7 @@
 
 Some handy links:
 - [Presentation slides](https://docs.google.com/presentation/d/e/2PACX-1vRkPfeIoNsNuAJLn6wIqNLj1NKaLRPBYLPdB9omKCorCjF9ZGrW3mA46Z79GBuAyCpvA1DWGnLZ3ADc/pub?start=false&loop=false&delayms=15000)
+- [REST API Documentation](https://docs.dhis2.org/2.34/en/dhis2_developer_manual/web-api.html)
 - [App Runtime Docs](https://runtime.dhis2.nu)
 - [Data Query Playground](https://runtime.dhis2.nu/playground)
 - [App Runtime Example App](https://github.com/dhis2/app-runtime/tree/master/examples/cra)
