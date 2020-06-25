@@ -3,7 +3,7 @@ import { Button } from '@dhis2/ui'
 
 const mutation = {
     resource: 'visualization',
-    /* @TODO: create a mutation for deleting a specific visualization */
+    /* @TODO: add a mutation for deleting a specific visualization */
 }
 
 export const DeleteVisualizationButton = ({ id, refetch }) => {

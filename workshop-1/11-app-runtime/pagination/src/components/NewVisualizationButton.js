@@ -3,10 +3,10 @@ import { Button } from '@dhis2/ui'
 
 const mutation = {
     resource: 'visualizations',
-    /* @TODO: create a mutation for creating a NEW visualization */
+    /* @TODO: add a mutation for creating a NEW visualization */
     /* Use this data payload:
         {
-            name: '__TEST__',
+            name: 'AAA_TEST',
             type: 'SINGLE_VALUE'
         }
     */

@@ -12,6 +12,7 @@ import * as classes from "../App.module.css";
 const visualizationsQuery = {
   // NOTE: you could use any name here, which is handy if you have multiple parallel queries
   results: {
+    resource: 'FILLMEIN'
     /* @TODO: add a query which returns the specified page of visualizations */
     /* The variables passed to the query will have the shape
      *  {
