@@ -5,9 +5,9 @@ const mutation = {
     resource: 'visualizations',
     type: 'create',
     data: {
-        name: '__TEST__',
+        name: 'AAA_TEST',
         type: 'SINGLE_VALUE'
-    }),
+    }
 }
 
 export const NewVisualizationButton = ({ refetch }) => {
