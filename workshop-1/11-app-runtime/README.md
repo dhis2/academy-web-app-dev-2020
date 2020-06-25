@@ -10,5 +10,9 @@ Some handy links:
 
 Open [the `simple` CodeSandbox](https://githubbox.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/11-app-runtime/simple?file=README.md) and follow the instructions in [the README](./simple/README.md)
 
+> **NOTE** : Don't forget to fork the sandbox!
+
 ## Task 2 - Pagination and Mutations
 Open [the `pagination` CodeSandbox](https://githubbox.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/11-app-runtime/pagination?file=README.md) and follow the instructions in [the README](./pagination/README.md)
+
+> **NOTE** : Don't forget to fork the sandbox!
