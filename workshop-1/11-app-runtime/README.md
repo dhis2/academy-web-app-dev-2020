@@ -7,6 +7,8 @@ Some handy links:
 - [Data Query Playground](https://runtime.dhis2.nu/playground)
 - [App Runtime Example App](https://github.com/dhis2/app-runtime/tree/master/examples/cra)
 
+Dynamic query [example CodeSandbox](https://codesandbox.io/s/nostalgic-voice-iwclm?file=/src/IndicatorsList.js)
+
 ## Task 1 - Simple Queries
 
 Open [the `simple` CodeSandbox](https://githubbox.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-1/11-app-runtime/simple?file=README.md) and follow the instructions in [the README](./simple/README.md)
