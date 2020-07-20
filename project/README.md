@@ -45,7 +45,7 @@ project. We only require that the requirements below be followed.
 ## Deadlines
 | Start date   | End date       | Duration |
 |--------------|----------------|-----------
-| 2019-June-25 | 2019-August-01 | 37 days  |
+| 2019-June-25 | 2019-August-03 | 39 days  |
 
 ## Delivery
 Submit the project source code to the relevant assignment in [DHIS2
