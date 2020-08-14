@@ -10,4 +10,4 @@ A [reference guide](./resources/CODE_SANDBOX.md) for [CodeSandbox](https://codes
 
 - [**Workshop 1**](./workshop-1) - _June 24 - 25_     
 - [**Project**](./project) - _June 25 - August 3_
-- **Workshop 2** - _August 18 - 21_
+- [**Workshop 2**](./workshop-2) - _August 18 - 21_
