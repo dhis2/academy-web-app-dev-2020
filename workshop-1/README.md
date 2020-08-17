@@ -2,6 +2,8 @@
 
 "The Basics of DHIS2 Application Development"
 
+[Session recordings are available on YouTube](https://www.youtube.com/playlist?list=PLo6Seh-066RynhjhnJNUITOZykA7397We)
+
 June 24 - 25, 2020, 10:00-13:00 CET
 
 June 25 - 26, 2020, 18:00-19:00 CET (for participants in N/S American time zones)
