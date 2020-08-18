@@ -22,4 +22,8 @@ A [solution CodeSandbox](https://codesandbox.io/s/github/dhis2/academy-web-app-d
 
 This is the same task as Exercise 2 of the App Runtime session in Workshop 1.  If you completed the Bonus problem for that exercise, you may re-use your existing solution (we can look it up for you if you don't remember the CodeSandbox URL)
 
-## Exercise 3 - Coming soon!
+## Exercise 3 - (bonus) Sequential queries & mutations
+
+Update the result of the previous exercise, but with a twist - when creating a new visualization, automatically **prepend the user's name to the visualization before saving**.  This requires you to perform a **query to the `me` endpoint followed by the mutation to the `visualizations` endpoint.**  You may use the imperative Data Engine interface for this.
+
+If you want even more of a challenge, **update the app so that the user CAN ONLY RENAME OR DELETE VISUALIZATIONS WHICH START WITH THEIR NAME, and cannot edit the username portion of the visualization name.**
