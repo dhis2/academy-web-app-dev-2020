@@ -8,12 +8,12 @@ Some handy links:
 - [Data Query Playground](https://runtime.dhis2.nu/playground)
 - [App Runtime Example App](https://github.com/dhis2/app-runtime/tree/master/examples/cra)
 
-## Task 1 - Use an Advanced Data Query
+## Exercise 1 - Use an Advanced Data Query
 
 1. Pick one of the advanced data query functionality presented today
-2. Implement a component using this functionality in [the `simple` CodeSandbox](https://githubbox.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-2/01-advanced-app-runtime/pagination?file=src/components/).  You may use any query resource (or mutation)
+2. Implement a component using this functionality in [the `simple` CodeSandbox](https://githubbox.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-2/01-advanced-app-runtime/simpoe?file=src/components/AdvancedQueryComponent.js).  You may use any query resource (or mutation)
 
-## Task 2 - Pagination and Mutations
+## Exercise 2 - Pagination and Mutations
 Open [the `pagination` CodeSandbox](https://githubbox.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-2/01-advanced-app-runtime/pagination?file=README.md) and follow the instructions in [the README](./pagination/README.md)
 
 > **NOTE** : Don't forget to fork the sandbox!
@@ -22,4 +22,4 @@ A [solution CodeSandbox](https://githubbox.com/dhis2/academy-web-app-dev-2020/tr
 
 This is the same task as Exercise 2 of the App Runtime session in Workshop 1.  If you completed the Bonus problem for that exercise, you may re-use your existing solution (we can look it up for you if you don't remember the CodeSandbox URL)
 
-## Task 3 - Coming soon!
+## Exercise 3 - Coming soon!
