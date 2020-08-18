@@ -8,7 +8,6 @@ Some handy links:
 -   [App Service Data Store GitHub repo](https://github.com/dhis2/app-service-datastore)
 -   [i18n repo](https://github.com/dhis2/d2-i18n)
 -   [Data Store Management App](https://play.dhis2.org/dev/dhis-web-datastore/index.html#/)
--   [App Runtime Example App](https://github.com/dhis2/app-runtime/tree/master/examples/cra)
 
 ## Quiz 1 - Generic app development quiz
 
