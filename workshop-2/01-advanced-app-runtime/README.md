@@ -11,7 +11,7 @@ Some handy links:
 ## Exercise 1 - Use an Advanced Data Query
 
 1. Pick one of the advanced data query functionality presented today
-2. Implement a component using this functionality in [the `simple` CodeSandbox](https://githubbox.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-2/01-advanced-app-runtime/simpoe?file=src/components/AdvancedQueryComponent.js).  You may use any query resource (or mutation)
+2. Implement a component using this functionality in [the `simple` CodeSandbox](https://githubbox.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-2/01-advanced-app-runtime/simple?file=src/components/AdvancedQueryComponent.js).  You may use any query resource (or mutation)
 
 ## Exercise 2 - Pagination and Mutations
 Open [the `pagination` CodeSandbox](https://githubbox.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-2/01-advanced-app-runtime/pagination?file=README.md) and follow the instructions in [the README](./pagination/README.md)
