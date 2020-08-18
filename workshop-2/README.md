@@ -15,16 +15,9 @@ August 18-21, 10:00-13:00 CET daily
 
 ## Topics
 
-- **Day 1** - July Project, Workshop 1 Review, Advanced Data Queries/Mutations (Austin w/ Wahed)
+- **Day 1**
+  - [Introduction](./00-introduction)
+  - [Advanced Data Queries](./01-advanced-app-runtime)
 - **Day 2** - Making apps generic, translations (i18n), DataStore Persistence (Hendrik w/ Milagros)
 - **Day 3** - `d2` CLI, Application Testing (Jan-Gerke w/ Austin)
-- **Day 4** - Deploying apps, publishing to the App Hub (Austin w/ ?)
-
-## Instructors for questions & support
-
-- Austin (all days)
-- Wahed
-- Christos
-- Ismay?
-- Hendrik/Jan-Gerke (one day each?)
-- Martin (when possible)
+- **Day 4** - Deploying apps, publishing to the App Hub
