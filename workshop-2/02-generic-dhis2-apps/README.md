@@ -33,6 +33,20 @@ Some handy links:
     - [ ] In the user data store
     - [ ] Store this as a data element
 
+4) What kind of elements are allowed to store in the data store (select one)?
+
+-   [ ] Object
+-   [ ] Array
+-   [ ] String
+-   [ ] Boolean
+-   [ ] Strings
+-   [ ] All of them
+
+5. Is it possible for the app to reserve a namespace (select one)?
+
+-   [ ] Yes, using the app manifest
+-   [ ] No, and there is no specific access required to use it
+
 ## Exercise 1 - A localised app
 
 Open [the `translations` CodeSandbox](https://codesandbox.io/s/github/dhis2/academy-web-app-dev-2020/tree/master/workshop-2/02-generic-dhis2-apps/translations?file=README.md) and follow the instructions in [the README](./translation/README.md)
