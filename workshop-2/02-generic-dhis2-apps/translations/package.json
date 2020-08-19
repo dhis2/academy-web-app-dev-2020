@@ -1,0 +1,23 @@
+{
+  "name": "data-query-example",
+  "version": "1.0.0",
+  "description": "",
+  "license": "BSD-3-Clause",
+  "private": true,
+  "scripts": {
+    "build": "d2-app-scripts build",
+    "start": "d2-app-scripts start",
+    "test": "d2-app-scripts test"
+  },
+  "devDependencies": {
+    "@dhis2/cli-app-scripts": "^5.0.0-alpha.1"
+  },
+  "dependencies": {
+    "@dhis2/app-runtime": "^2.2.2",
+    "@dhis2/ui": "^5.0.5",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-jsx": "^3.3.0"
+  }
+}
