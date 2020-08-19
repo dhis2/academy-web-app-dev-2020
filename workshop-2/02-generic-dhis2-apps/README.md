@@ -7,7 +7,7 @@ Some handy links:
 -   [User Data Store API Documentation](https://docs.dhis2.org/2.34/en/dhis2_developer_manual/web-api.html#user-data-store)
 -   [App Service Data Store GitHub repo](https://github.com/dhis2/app-service-datastore)
 -   [i18n repo](https://github.com/dhis2/d2-i18n)
--   [Data Store Management App](https://play.dhis2.org/dev/dhis-web-datastore/index.html#/)
+-   [Data Store Management App](https://academy.demos.dhis2.org/app-dev-academy/dhis-web-datastore/index.html#/)
 
 ## Quiz 1 - Generic app development quiz
 
