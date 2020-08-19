@@ -35,17 +35,17 @@ Some handy links:
 
 4) What kind of elements are allowed to store in the data store (select one)?
 
--   [ ] Object
--   [ ] Array
--   [ ] String
--   [ ] Boolean
--   [ ] Strings
--   [ ] All of them
+    - [ ] Object
+    - [ ] Array
+    - [ ] String
+    - [ ] Boolean
+    - [ ] Strings
+    - [ ] All of them
 
 5. Is it possible for the app to reserve a namespace (select one)?
 
--   [ ] Yes, using the app manifest
--   [ ] No, and there is no specific access required to use it
+    - [ ] Yes, using the app manifest
+    - [ ] No, and there is no specific access required to use it
 
 ## Exercise 1 - A localised app
 
