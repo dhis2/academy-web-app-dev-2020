@@ -49,6 +49,6 @@ Some handy links:
 
 ## Exercise 1 - A localised app
 
-Open [the `translations` CodeSandbox](https://codesandbox.io/s/github/dhis2/academy-web-app-dev-2020/tree/master/workshop-2/02-generic-dhis2-apps/translations?file=README.md) and follow the instructions in [the README](./translation/README.md)
+Open [the `translations` CodeSandbox](https://codesandbox.io/s/github/dhis2/academy-web-app-dev-2020/tree/master/workshop-2/02-generic-dhis2-apps/translations?file=README.md) and follow the instructions in [the README](./translations/README.md)
 
 > **NOTE** : Don't forget to fork the sandbox!
