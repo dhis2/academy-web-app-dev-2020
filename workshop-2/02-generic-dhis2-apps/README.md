@@ -8,6 +8,7 @@ Some handy links:
 -   [App Service Data Store GitHub repo](https://github.com/dhis2/app-service-datastore)
 -   [i18n repo](https://github.com/dhis2/d2-i18n)
 -   [Data Store Management App](https://academy.demos.dhis2.org/app-dev-academy/dhis-web-datastore/index.html#/)
+-   [This workshop on the Academy plaform](https://academy.dhis2.org/courses/course-v1:HISP_UiO+D2AD2d100EN+2020_Q3/courseware/5a5fa5cb0af043ff9cc25e8442557d97/be5674caa03f4c29892159ef76be0b23/)
 
 ## Exercise 1 - A localised app
 
