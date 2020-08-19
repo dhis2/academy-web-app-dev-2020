@@ -18,6 +18,6 @@ August 18-21, 10:00-13:00 CET daily
 - **Day 1**
   - [Introduction](./00-introduction)
   - [Advanced Data Queries](./01-advanced-app-runtime)
-- **Day 2** - Making apps generic, translations (i18n), DataStore Persistence (Hendrik w/ Milagros)
+- **Day 2** - [Making apps generic, translations (i18n), DataStore Persistence](https://github.com/dhis2/academy-web-app-dev-2020/tree/master/workshop-2/02-generic-dhis2-apps) (Hendrik w/ Milagros)
 - **Day 3** - `d2` CLI, Application Testing (Jan-Gerke w/ Austin)
 - **Day 4** - Deploying apps, publishing to the App Hub
