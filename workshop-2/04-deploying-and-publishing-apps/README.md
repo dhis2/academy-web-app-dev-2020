@@ -1,4 +1,4 @@
-# Testing applications
+# Deploying and publishing apps
 
 ## Some handy links
 
