@@ -6,6 +6,7 @@
 
 - <a href="https://docs.google.com/presentation/d/1E-sCSvJzIYXnyP69WiwL-eMFJv7vMDPfsUw7cMPuZpk/edit?usp=sharing" target="_blank">Presentation Slides</a>
 - [Exercises](./EXERCISES.md)
+- [Presentation transcript](./TRANSCRIPT.md)
 
 **Links to documentation and guides**
 
