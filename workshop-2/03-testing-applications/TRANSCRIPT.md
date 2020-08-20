@@ -510,3 +510,15 @@ it('should', async () => {
   expect(result.current.counter).toBe(1)
 })
 ```
+
+### Executing platform app tests
+
+When you're working on a platform app, built with the tools that we've explored
+during the first workshop, you don't have to add or configure jest, it's
+included in the app platform scripts.
+
+Once you have added tests, you can simply run either `yarn test` or `npm test`.
+This will run all your tests and print the result on your console.
+
+If you don't change jest's default configuration, you'll have to add the `dot
+test dot js` or `dot spec dot js` file extensions to your test files.
