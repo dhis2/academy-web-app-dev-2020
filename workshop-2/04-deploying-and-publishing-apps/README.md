@@ -8,4 +8,5 @@
 
 **Links to documentation and guides**
 
+- [DHIS2 App Hub](https://apps.dhis2.org/)
 - [Written version of the demo](https://www.fiftythreetwenty.com/learn/dhis2/app-development-guides/dhis2-app-hub-submit-app/)
