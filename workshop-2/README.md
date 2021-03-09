@@ -4,6 +4,8 @@
 
 August 18-21, 10:00-13:00 CET daily
 
+[Recordings available on YouTube](https://www.youtube.com/playlist?list=PLo6Seh-066Rx3CPMv-i2gdzo8qxZ4cfSQ)
+
 ## Daily Schedule
 
   - 10:00-10:45 - Previous Material Review, Q&A, Logistics
